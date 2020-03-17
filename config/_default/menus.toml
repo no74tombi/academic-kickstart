@@ -16,7 +16,7 @@
 [[main]]
   name = "Blog"
   url = "/post"
-  weight = 30
+  weight = 70
 
 [[main]]
   name = "Publications"
