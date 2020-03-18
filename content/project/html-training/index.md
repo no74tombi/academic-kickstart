@@ -7,7 +7,7 @@ tags:
 date: "2020-03-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://no74tombi.github.io/html-dojo
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
