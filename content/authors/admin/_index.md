@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Course Student
+role: Master Course Student(2020.04-)
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Tokyo
+- name: The University of Tokyo(2020.04-)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,13 +32,13 @@ education:
   courses:
   - course: 東京大学大学院
     institution: 新領域創成科学研究科複雑理工学専攻
-    year: 2020.4-
+    year: 2020.04-
   - course: 久留米工業高等専門学校
     institution: 機械・電気システム工学専攻
-    year: 2018.4-2020.3
+    year: 2018.04-2020.03
   - course: 久留米工業高等専門学校
     institution: 制御情報工学科
-    year: 2013.4-2018.3
+    year: 2013.04-2018.03
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-高専で信号を処理してた大学院生(22)。現在は物理とか情報とか、写真が好きなので画像処理とかも。読書が好きで最近はビジネス書とか気になったのを漁っています。Webデザインの勉強もしています、HTML&CSS かじりたて、これからポートフォリオ作りたいなぁくらいです。最近ヒップホップにハマっています。
+高専で信号を処理してた大学院生(22)になる予定。現在は物理とか情報とか、写真が好きなので画像処理とかも。読書が好きで最近はビジネス書とか気になったのを漁っています。Webデザインの勉強もしています、HTML&CSS かじりたて、これからポートフォリオ作りたいなぁくらいです。最近ヒップホップにハマっています。絶賛サイト移行中。
