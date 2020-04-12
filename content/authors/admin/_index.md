@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Course Student(2020.04-)
+role: Master Course Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Tokyo(2020.04-)
+- name: Okada Lab.(The Univ. of Tokyo)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-高専で信号を処理してた大学院生(22)になる予定。現在は物理とか情報とか、写真が好きなので画像処理とかも。読書が好きで最近はビジネス書とか気になったのを漁っています。Webデザインの勉強もしています、HTML&CSS かじりたて、これからポートフォリオ作りたいなぁくらいです。最近ヒップホップにハマっています。絶賛サイト移行中。
+高専で信号を処理してた修士課程。写真が好きなので画像処理とかも。読書が好き。Webデザイン(HTML&CSS) かじりたて、これからポートフォリオ作りたい。最近ヒップホップにハマっています。
